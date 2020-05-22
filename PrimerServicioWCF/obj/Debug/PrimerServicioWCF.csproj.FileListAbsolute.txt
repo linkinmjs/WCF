@@ -1,0 +1,5 @@
+C:\laragon\www\ProyectoWCF\Proyectos\MiPrimerServicioWCF\PrimerServicioWCF\bin\Debug\PrimerServicioWCF.dll
+C:\laragon\www\ProyectoWCF\Proyectos\MiPrimerServicioWCF\PrimerServicioWCF\bin\Debug\PrimerServicioWCF.pdb
+C:\laragon\www\ProyectoWCF\Proyectos\MiPrimerServicioWCF\PrimerServicioWCF\obj\Debug\PrimerServicioWCF.csprojAssemblyReference.cache
+C:\laragon\www\ProyectoWCF\Proyectos\MiPrimerServicioWCF\PrimerServicioWCF\obj\Debug\PrimerServicioWCF.dll
+C:\laragon\www\ProyectoWCF\Proyectos\MiPrimerServicioWCF\PrimerServicioWCF\obj\Debug\PrimerServicioWCF.pdb
