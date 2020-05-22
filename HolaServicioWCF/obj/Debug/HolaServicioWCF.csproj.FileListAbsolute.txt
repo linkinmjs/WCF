@@ -1,0 +1,6 @@
+C:\laragon\www\ProyectoWCF\Proyectos\MiPrimerServicioWCF\HolaServicioWCF\bin\Debug\HolaServicioWCF.exe.config
+C:\laragon\www\ProyectoWCF\Proyectos\MiPrimerServicioWCF\HolaServicioWCF\bin\Debug\HolaServicioWCF.exe
+C:\laragon\www\ProyectoWCF\Proyectos\MiPrimerServicioWCF\HolaServicioWCF\bin\Debug\HolaServicioWCF.pdb
+C:\laragon\www\ProyectoWCF\Proyectos\MiPrimerServicioWCF\HolaServicioWCF\obj\Debug\HolaServicioWCF.csprojAssemblyReference.cache
+C:\laragon\www\ProyectoWCF\Proyectos\MiPrimerServicioWCF\HolaServicioWCF\obj\Debug\HolaServicioWCF.exe
+C:\laragon\www\ProyectoWCF\Proyectos\MiPrimerServicioWCF\HolaServicioWCF\obj\Debug\HolaServicioWCF.pdb

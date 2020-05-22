@@ -10,6 +10,9 @@ namespace HolaServicioWCF
     {
         static void Main(string[] args)
         {
+            var client = new PrimerServicioWCFClient();
+
+            Console.WriteLine(client.ObtenerMensaje("Hola WCF"));
         }
     }
 }
